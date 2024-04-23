@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6322b28927092c610e67a343"
+  },
+  "content": "Start your day with exclusive breakfast options",
+  "image": "Assets/breakfast.jpg",
+  "meal_type": 1,
+  "food_name": "Breakfast"
+},{
+  "_id": {
+    "$oid": "6322b28927092c610e67a344"
+  },
+  "content": "Start your day with exclusive lunch options",
+  "image": "Assets/lunch.jpg",
+  "meal_type": 2,
+  "food_name": "Lunch"
+},{
+  "_id": {
+    "$oid": "6322b28927092c610e67a345"
+  },
+  "content": "Start your day with exclusive dinner options",
+  "image": "Assets/dinner.jpg",
+  "meal_type": 3,
+  "food_name": "Dinner"
+},{
+  "_id": {
+    "$oid": "6322b28927092c610e67a346"
+  },
+  "content": "Start your day with exclusive snacks options",
+  "image": "Assets/snacks.jpg",
+  "meal_type": 4,
+  "food_name": "Snacks"
+},{
+  "_id": {
+    "$oid": "6322b28927092c610e67a347"
+  },
+  "content": "Start your day with exclusive drinks options",
+  "image": "Assets/drinks.jpg",
+  "meal_type": 5,
+  "food_name": "Drinks"
+},{
+  "_id": {
+    "$oid": "6322b28927092c610e67a348"
+  },
+  "content": "Start your day with exclusive nightlife options",
+  "image": "Assets/nightlife.jpg",
+  "meal_type": 6,
+  "food_name": "NightLife"
+}]
